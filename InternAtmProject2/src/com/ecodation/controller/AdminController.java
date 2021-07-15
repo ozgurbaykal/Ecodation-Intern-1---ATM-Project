@@ -24,7 +24,7 @@ public class AdminController {
 	private int uChoise;
 
 	public void AdminProcess(int b, String m, Long i) {
-		System.out.println("-------------------------");
+		System.out.println("------------------------");
 		Scanner scan = new Scanner(System.in);
 		RegisterDao registerDao = new RegisterDao();
 		TransferDto transferDto = new TransferDto();
