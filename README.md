@@ -1,4 +1,4 @@
-# Ecodation-Staj-1---ATM-Projesi
+# Ecodation-Staj-1---ATM-Project
 
 # This project is about my internship at Ecodation Company.
 
